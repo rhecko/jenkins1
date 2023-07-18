@@ -1,2 +1,2 @@
 print("Hello world\n")
-print("Pool SCM test with jenkinsfile pipeline 1")
+print("Pool SCM test with freestyle python")
